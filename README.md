@@ -1,6 +1,4 @@
-[![HamiltonPharmD
-StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13898059)](https://stackoverflow.com/users/13898059/reza-aslejeddian)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&color=F7931A&width=435&lines=Hi%2C+I'm+Reza+%E2%9C%8B%F0%9F%99%82;Welcome+to+my+corner+of+the+internet!;Check+out+my+work+and+feel+free+to+copy+me;Because+we+are+developers+%F0%9F%91%8A%F0%9F%98%8E" alt="Typing SVG" /></a>
 <h1 align="center">Hi there ✋, I'm Reza</h1>
 <h3 align="center">A software engineer who loves Web3 space.</h3>
 
