@@ -123,11 +123,9 @@ Equality, decentralization, and a whole lot of tech goodness. Let’s Web3 this!
             alt="terllo" width="40" height="40" />&nbsp;
     </p>
     </br></br></br>
-    
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=reasje&theme=react" alt="Reza's Activity Graph" />
     </p>
-
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api?username=reasje&show_icons=true&count_private=true&theme=github_dark"
             alt="reasje" /></p>
