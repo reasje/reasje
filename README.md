@@ -5,8 +5,12 @@
     </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=reasje&label=Profile%20views&color=blue&style=flat"
+<p align="start"> <img src="https://komarev.com/ghpvc/?username=reasje&label=Profile%20views&color=blue&style=flat"
         alt="reasje" /> </p>
+
+<p align="start">    <img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=reasje&theme=darkhub&no-bg=false&margin-w=20&title=Stars,MultiLanguage,Commits,Repositories,PullRequest"
+        alt="reasje" /></p>
 
 <div align="center">
     <h2>🚀 About Me</h2>
@@ -39,9 +43,6 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=reasje&layout=compact&hide=makefile,cmake,c%2B%2B,c,html,java,assembly,shell,css,python&theme=github_dark&hide_border=true&exclude_repo=efcore,ReportSharp.DatabaseReporter,ReportSharp.DiscordReporter,EF.Seeder,ReportSharp.Api,dotnet_template,AppCommand,socket_sharp"
             alt="reasje" />
     </div>
-    <img align="center"
-        src="https://github-profile-trophy.vercel.app/?username=reasje&theme=darkhub&no-bg=false&margin-w=20&title=Stars,MultiLanguage,Commits,Repositories,PullRequest"
-        alt="reasje" />
 </div>
 
 <div align="center">
@@ -76,6 +77,7 @@
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt="mysql" width="40" height="40" />&nbsp;
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' alt="linux" width="40" height="40" />&nbsp;
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt="vscode" width="40" height="40" />&nbsp;
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' alt="vscode" width="40" height="40" />&nbsp;        
     </p>
 </div>
 
