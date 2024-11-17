@@ -1,10 +1,7 @@
 <div style="text-align: center; font-size: 48px; margin-top: 20px;">
     <a href="https://git.io/typing-svg">
-        <img 
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&color=F7931A&width=800&lines=Hi%2C+I'm+Reza+%E2%9C%8B%F0%9F%99%82;Welcome+to+my+corner+of+the+internet!;Check+out+my+work+and+feel+free+to+copy+me;Because+we+are+developers+%F0%9F%91%8A%F0%9F%98%8E" 
-            alt="Typing SVG" 
-            style="max-width: 100%; height: auto;" 
-        />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&color=F7931A&width=800&lines=Hi%2C+I'm+Reza+%E2%9C%8B%F0%9F%99%82;Welcome+to+my+corner+of+the+internet!;Check+out+my+work+and+feel+free+to+copy+me;Because+we+are+developers+%F0%9F%91%8A%F0%9F%98%8E"
+            alt="Typing SVG" style="max-width: 100%; height: auto;" />
     </a>
 </div>
 
@@ -61,10 +58,10 @@ Equality, decentralization, and a whole lot of tech goodness. Let’s Web3 this!
             width="40" height="40" />&nbsp;
     <h3>Blockchains:</h3>
     <p>
-        <img src='https://raw.githubusercontent.com/Cryptofonts/cryptoicons/refs/heads/master/SVG/eth.svg' alt="ethereum" width="40"
-            height="40" />&nbsp;
-        <img src='https://raw.githubusercontent.com/Cryptofonts/cryptoicons/refs/heads/master/SVG/sol.svg'
-            alt="solana" width="40" height="40" />&nbsp;
+        <img src='https://raw.githubusercontent.com/Cryptofonts/cryptoicons/refs/heads/master/SVG/eth.svg'
+            alt="ethereum" width="40" height="40" />&nbsp;
+        <img src='https://raw.githubusercontent.com/Cryptofonts/cryptoicons/refs/heads/master/SVG/sol.svg' alt="solana"
+            width="40" height="40" />&nbsp;
     <h3>Tools:</h3>
     <p>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="npm" width="40"
@@ -124,8 +121,10 @@ Equality, decentralization, and a whole lot of tech goodness. Let’s Web3 this!
     </p>
     </br></br></br>
     <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=reasje&theme=react" alt="Reza's Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=reasje&theme=react"
+            alt="Reza's Activity Graph" />
     </p>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=reasje&theme=github-dark-blue&hide_border=true&border_radius=10&mode=weekly&card_width=700" alt="GitHub Streak" /></a>
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api?username=reasje&show_icons=true&count_private=true&theme=github_dark"
             alt="reasje" /></p>
