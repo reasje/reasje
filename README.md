@@ -124,7 +124,7 @@ Equality, decentralization, and a whole lot of tech goodness. Let’s Web3 this!
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=reasje&theme=react"
             alt="Reza's Activity Graph" />
     </p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=reasje&theme=github-dark-blue&hide_border=true&border_radius=10&mode=weekly&card_width=700" alt="GitHub Streak" /></a>
+    <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=reasje&theme=github-dark-blue&hide_border=true&border_radius=10&mode=weekly&card_width=1000" alt="GitHub Streak" /></a>
     <p><img align="left"
             src="https://github-readme-stats.vercel.app/api?username=reasje&show_icons=true&count_private=true&theme=github_dark"
             alt="reasje" /></p>
